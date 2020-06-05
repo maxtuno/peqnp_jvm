@@ -10,7 +10,7 @@
     
 
 # BLUE
- A Powerful  SAT Solver for Java
+ A Powerful  SAT Solver for Java https://github.com/maxtuno/blue
  
  very simple:
  
