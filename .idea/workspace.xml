@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bd55e1e4-3898-460b-aacb-08af45645aea" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1ctnEdp31FwwYH6XBe3XVockVss" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="true" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/py" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/py" />
+      <recent name="$PROJECT_DIR$/lib" />
+      <recent name="$PROJECT_DIR$/lib/Bin" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.peqnp" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/py" />
+      <recent name="$PROJECT_DIR$/lib/bin" />
+      <recent name="$PROJECT_DIR$/lib/Bin" />
+      <recent name="$PROJECT_DIR$/lib" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Factoring">
+    <configuration name="Factoring" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.peqnp.Factoring" />
+      <module name="examples" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.peqnp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FactoringInterop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.peqnp.FactoringInterop" />
+      <module name="examples" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.peqnp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="factoring" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="examples" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/py" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/py/factoring.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.factoring" />
+      <item itemvalue="Application.Factoring" />
+      <item itemvalue="Application.FactoringInterop" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Factoring" />
+        <item itemvalue="Application.FactoringInterop" />
+        <item itemvalue="Python.factoring" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bd55e1e4-3898-460b-aacb-08af45645aea" name="Default Changelist" comment="" />
+      <created>1591356646952</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1591356646952</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="424" y="170" width="1024" height="845" key="#Project_Structure" timestamp="1591363779478">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state x="424" y="170" key="#Project_Structure/0.23.1920.1057@0.23.1920.1057" timestamp="1591363779478" />
+    <state x="476" y="190" width="1024" height="845" key="#Project_Structure/67.27.1853.1173@67.27.1853.1173" timestamp="1591361403138" />
+    <state x="398" y="243" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1591364995016">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state x="398" y="243" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1920.1057@0.23.1920.1057" timestamp="1591364995016" />
+    <state x="451" y="271" key="#com.intellij.execution.impl.EditConfigurationsDialog/67.27.1853.1173@67.27.1853.1173" timestamp="1591360810019" />
+    <state x="701" y="415" width="574" height="396" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1591357707500">
+      <screen x="67" y="27" width="1853" height="1173" />
+    </state>
+    <state x="701" y="415" width="574" height="396" key="#com.intellij.fileTypes.FileTypeChooser/67.27.1853.1173@67.27.1853.1173" timestamp="1591357707500" />
+    <state x="543" y="213" key="#com.intellij.openapi.projectRoots.ui.ProjectJdksEditor" timestamp="1591363754416">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state x="543" y="213" key="#com.intellij.openapi.projectRoots.ui.ProjectJdksEditor/0.23.1920.1057@0.23.1920.1057" timestamp="1591363754416" />
+    <state x="568" y="319" width="735" height="513" key="FileChooserDialogImpl" timestamp="1591363716495">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state x="568" y="319" key="FileChooserDialogImpl/0.23.1920.1057@0.23.1920.1057" timestamp="1591363716495" />
+    <state x="615" y="356" width="735" height="513" key="FileChooserDialogImpl/67.27.1853.1173@67.27.1853.1173" timestamp="1591361080739" />
+    <state width="1361" height="230" key="GridCell.Tab.0.bottom" timestamp="1591365480534">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1361" height="230" key="GridCell.Tab.0.bottom/0.23.1920.1057@0.23.1920.1057" timestamp="1591365480534" />
+    <state width="1354" height="260" key="GridCell.Tab.0.bottom/67.27.1853.1173@67.27.1853.1173" timestamp="1591361927870" />
+    <state width="1361" height="230" key="GridCell.Tab.0.center" timestamp="1591365480533">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1361" height="230" key="GridCell.Tab.0.center/0.23.1920.1057@0.23.1920.1057" timestamp="1591365480533" />
+    <state width="1354" height="260" key="GridCell.Tab.0.center/67.27.1853.1173@67.27.1853.1173" timestamp="1591361927868" />
+    <state width="1361" height="230" key="GridCell.Tab.0.left" timestamp="1591365480533">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1361" height="230" key="GridCell.Tab.0.left/0.23.1920.1057@0.23.1920.1057" timestamp="1591365480533" />
+    <state width="1354" height="260" key="GridCell.Tab.0.left/67.27.1853.1173@67.27.1853.1173" timestamp="1591361927867" />
+    <state width="1361" height="230" key="GridCell.Tab.0.right" timestamp="1591365480534">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1361" height="230" key="GridCell.Tab.0.right/0.23.1920.1057@0.23.1920.1057" timestamp="1591365480534" />
+    <state width="1354" height="260" key="GridCell.Tab.0.right/67.27.1853.1173@67.27.1853.1173" timestamp="1591361927868" />
+    <state x="476" y="190" width="1024" height="845" key="SettingsEditor" timestamp="1591360651177">
+      <screen x="67" y="27" width="1853" height="1173" />
+    </state>
+    <state x="476" y="190" width="1024" height="845" key="SettingsEditor/67.27.1853.1173@67.27.1853.1173" timestamp="1591360651177" />
+    <state x="660" y="506" width="1063" height="321" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1591359613514">
+      <screen x="67" y="27" width="1853" height="1173" />
+    </state>
+    <state x="660" y="506" width="1063" height="321" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/67.27.1853.1173@67.27.1853.1173" timestamp="1591359613514" />
+  </component>
+</project>
