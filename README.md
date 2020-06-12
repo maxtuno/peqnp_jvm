@@ -4,7 +4,7 @@
 
     java -jar lib/jython-installer-2.7.2.jar
 
-    jython/bin/jython -m pip install peqnp --install-option=no-solver
+    jython/bin/jython -m pip install PEQNP==2.1.16 --install-option=no-solver --upgrade
     
     Add reference to jython/jython.jar
     
